@@ -1,0 +1,247 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.background{
+    width: 100%;
+    height: 95vh;
+    position: absolute;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/netflixteaser.png);
+}
+.logo{
+    position: relative;
+    width: 13%;
+    height: 13%;
+    margin: 2rem;
+    margin-left: 176px;
+}
+.leftbar{
+    position: absolute;
+}
+.lang{
+    position: relative;
+    width: 122px;
+    height: 33px;
+    margin-top: 2rem;
+    background-color: #000;
+    color: white;
+    border-radius: 6px;
+    font-size: 20px;
+    
+    margin-left: 630px;
+}
+.signin{
+    width: 98px;
+    height: 33px;
+    border-radius: 6px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+.head{
+    position: relative;
+    font-size: 45px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 320px;
+    margin-top: 150px;
+}
+.subhead{
+    position: relative;
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+    margin-left: 490px;
+}
+.paragraph{
+    position: relative;
+    font-size: 22px;
+    color: white;
+    margin-left: 377px;
+    margin-top: 50px;
+}
+.email{
+    position: relative;
+    width: 377px;
+    height: 52px;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    border-radius: 4px;
+    border: 1px solid white;
+}
+.button{
+    position: relative;
+    width: 150px;
+    height: 60px;
+    background-color: red;
+    color: white;
+    border-radius: 6px;
+    font-size: 2opx;
+    font-weight: bold;
+}
+.form{
+    position: relative;
+    margin-left: 460px;
+}
+.section1{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.section1 h1{
+    position: relative;
+    font-size: 52px;
+    color: white;
+    margin-left: 78px;
+}
+.sect1img{
+    width: 600px;
+    height: 440px;
+}
+.paragraph1{
+    font-size: 20px;
+    color: white;
+    margin-left: 80px;
+}
+.section2{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.section2 h1{
+    position: relative;
+    font-size: 52px;
+    color: white;
+    margin-left: 78px;
+}
+.paragraph2{
+    font-size: 20px;
+    color: white;
+    margin-left: 80px;
+}
+.section3{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.section3 h1{
+    position: relative;
+    font-size: 52px;
+    color: white;
+    margin-left: 78px;
+}
+.section4{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.section4 h1{
+    position: relative;
+    font-size: 52px;
+    color: white;
+    margin-left: 78px;
+}
+.section5{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+  
+}
+.section5 h1{
+    position: relative;
+    font-size: 45px;
+    color: white;
+    margin-left: 78px;
+    margin-top: -280px;
+}
+
+.section2part{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* bordrer: 2px solid ed; */
+    background-color: #322e2eee;
+    height: 79px;
+    width: 50%;
+    margin: 28px 350px;
+    padding: 4px 4px;
+   
+}
+.section2part:hover{
+    background-color: #494343ee;
+}
+.section2part p{
+    
+    margin: 13px 2px;
+    padding: 5px 19px;
+    font-size: 36px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+#last{
+    background-color: black;
+}
+.qust{
+    color: white;
+    margin-left: 450px;
+}
+.foot{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.foot h3, a{
+    
+    color: white;
+}
+.section6{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+  
+}
+.paragraph3{
+    font-size: 20px;
+    color: white;
+    margin-top: -170px;
+    margin-left: -130px;
+}
+.lang2{
+    position: relative;
+    width: 122px;
+    height: 33px;
+    margin-top: 2rem;
+    background-color: #000;
+    color: white;
+    border-radius: 6px;
+    font-size: 20px;
+
+}
+.qust1{
+    color: white;
+    
+}
+.text{
+    color: white;
+}
